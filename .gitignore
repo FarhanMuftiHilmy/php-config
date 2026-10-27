@@ -1,0 +1,7 @@
+# ignore everything...
+*
+# ...but descend into subfolders
+!*/
+# track only these
+!.gitignore
+!*/php.ini
